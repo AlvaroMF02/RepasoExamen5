@@ -19,4 +19,5 @@
         <maven.compiler.target>18</maven.compiler.target>
         <exec.mainClass>com.mycompany.repasoexamen5.RepasoExamen5</exec.mainClass>
     </properties>
+    <name>RepasoDaw</name>
 </project>
