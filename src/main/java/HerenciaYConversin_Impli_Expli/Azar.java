@@ -9,7 +9,7 @@ public abstract class Azar {
     // ATRIB
     protected int posibilidades;    // CARAS DE LA MONEDA Y EL DADO
 
-    // CONSTR
+    // CONSTRaa
     public Azar(int posibilidades) {
         this.posibilidades = Math.abs(posibilidades);
     }
